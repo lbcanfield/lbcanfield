@@ -1,14 +1,13 @@
-### Plesant Greetings, I'm Lewie!
-![IMG-4752](https://user-images.githubusercontent.com/114697755/202861549-99a81e48-170b-4927-aac5-85e67b067c9c.JPG)
+### Hi there 👋, Hey There!
+#### I'm Lewie and I have a passion for Development, Content Creaction and Problem Solving.
+![I'm Lewie and I have a passion for Development, Content Creaction and Problem Solving.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**lbcanfield/lbcanfield** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I faithfully served my country as a member of the U.S. Air Force where I learned and cultivated a variety of skills.  Upon retirement, I had the opportunity to educate entry level students where I discovered that I had an enormous passion for instructing.
 
-Here are some ideas to get you started:
+Skills: Python, Bash, Windows PowerShell, JavaScript, HTML, REACT, C++
+
+- 🔭 I’m currently working on this page. 
 
 
-- 🌱 I’m currently learning Full-Stack Web Development at Bloom Institute of Technology.
-- 💬 Ask me about ...
 
-- ⚡ Fun facts: I enjoy problem-solving, learning, and teaching.  Creating and producing video conent to help others learn is a passion of mine.  
--->
+
