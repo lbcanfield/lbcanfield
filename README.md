@@ -4,7 +4,7 @@ I faithfully served my country as a member of the U.S. Air Force where I learned
 
 Skills: Python, Bash, Windows PowerShell, JavaScript, HTML, REACT, C++
 
-- 🔭 I’m currently working on this page. 
+<!-- - 🔭 I’m currently working on this page.  -->
 
 
 
