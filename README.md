@@ -1,6 +1,5 @@
 ### Plesant Greetings, I'm Lewie!
-
-![images](IMG-4752.jpb)
+IMG-4752.JPG
 
 <!--
 **lbcanfield/lbcanfield** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
