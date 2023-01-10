@@ -1,4 +1,3 @@
-### Hi there 👋, Hey There!
 #### I'm Lewie and I have a passion for Development, Content Creaction and Problem Solving.
 I faithfully served my country as a member of the U.S. Air Force where I learned and cultivated a variety of skills.  Upon retirement, I had the opportunity to educate entry level students where I discovered that I had an enormous passion for instructing.
 
